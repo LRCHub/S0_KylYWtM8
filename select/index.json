@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Write This Down",
+  "base_artist": "SoulChef",
+  "createdAt": "2025-12-26T05:31:02.028382Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Write This Down",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_Write_This_Down_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Write This Down (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_Write_This_Down_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Write This Down (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/03_Write_This_Down_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Write This Down",
+      "artist": "Nieve feat. SoulChef",
+      "has_synced": true,
+      "path": "select/04_Write_This_Down_Nieve_feat._SoulChef.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Write This Down (feat. Nieve)",
+      "artist": "SoulChef",
+      "has_synced": true,
+      "path": "select/05_Write_This_Down_(feat._Nieve)_SoulChef.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Write This Down (Instrumental)",
+      "artist": "SoulChef",
+      "has_synced": false,
+      "path": "select/06_Write_This_Down_(Instrumental)_SoulChef.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Write This Down (feat. Nieve)",
+      "artist": "SoulChef feat. Nieve",
+      "has_synced": true,
+      "path": "select/07_Write_This_Down_(feat._Nieve)_SoulChef_feat._Nieve.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Write This Down",
+      "artist": "Soulchef",
+      "has_synced": true,
+      "path": "select/08_Write_This_Down_Soulchef.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Write This Down",
+      "artist": "Cartel",
+      "has_synced": true,
+      "path": "select/09_Write_This_Down_Cartel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Write This Down",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/10_Write_This_Down_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Write This Down",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/11_Write_This_Down_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Write This Down",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/12_Write_This_Down_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Write This Down",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/13_Write_This_Down_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Write This Down (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/14_Write_This_Down_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Write This Down",
+      "artist": "Nieve & SoulChef",
+      "has_synced": true,
+      "path": "select/15_Write_This_Down_Nieve_&_SoulChef.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Write This Down",
+      "artist": "Confide",
+      "has_synced": true,
+      "path": "select/16_Write_This_Down_Confide.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Write This Down",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/17_Write_This_Down_George_Strait.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Write This Down (feat. Nieve)",
+      "artist": "SoulChef",
+      "has_synced": false,
+      "path": "select/pl_01_Write_This_Down_(feat._Nieve)_SoulChef.txt"
+    }
+  ]
+}
